@@ -1,0 +1,6 @@
+	{
+  "provider": "Exosys-Ghost",
+  "tile_url": "https://mt{s}.google.com/vt/lyrs={type}&x={x}&y={y}&z={z}",
+  "route_url": "https://www.google.com/maps/dir/?api=1&origin={orig}&destination={dest}&travelmode=walking&hl=en",
+  "regex_target": "\"([a-zA-Z0-9_\\\\-]{20,})\""
+}
