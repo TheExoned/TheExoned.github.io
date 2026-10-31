@@ -1,6 +1,5 @@
-	{
+{
   "provider": "Exosys-Ghost",
-  "tile_url": "https://mt{s}.google.com/vt/lyrs={type}&x={x}&y={y}&z={z}",
-  "route_url": "https://www.google.com/maps/dir/?api=1&origin={orig}&destination={dest}&travelmode=walking&hl=en",
-  "regex_target": "\"([a-zA-Z0-9_\\\\-]{20,})\""
+  "tile_tpl_b64": "aHR0cHM6Ly9tdHtzfS5nb29nbGUuY29tL3Z0L2x5cnM9e3R5cGV9Jng9e3h9Jnk9e3l9Jno9e3p9",
+  "referer_b64": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS9tYXBz"
 }
